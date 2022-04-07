@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.fen.dou.mapper.UserMapper">
+    <cache></cache>
+    <resultMap id="ResultMap" type="com.fen.dou.entity.User">
+        <id column="id" property="id" />
+    </resultMap>
+    <resultMap id="ResultMap1" type="com.fen.dou.entity.UserVo">
+
+    </resultMap>
+
+    <select id="findUser" resultMap="ResultMap">
+        select id,username,password from user where id = 1;
+    </select>
+    <update id="updateUser" >
+       update user set username = 'yangcai' where id = 1
+    </update>
+
+    <select id="findUserProduct" resultMap="ResultMap1">
+        select product.count,username,password from user left join product on user.id = product.userId where user.id = 1;
+    </select>
+
+</mapper>

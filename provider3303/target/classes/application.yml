@@ -1,0 +1,11 @@
+server:
+  port: 3303
+spring:
+  application:
+    name: product
+  cloud:
+    nacos:
+      discovery:
+        metadata:
+          version: 3
+        server-addr: 8.142.145.40:8848

@@ -1,0 +1,11 @@
+server:
+  port: 3001
+spring:
+  application:
+    name: product
+  cloud:
+    nacos:
+      discovery:
+        metadata:
+          version: 2
+        server-addr: localhost:8848

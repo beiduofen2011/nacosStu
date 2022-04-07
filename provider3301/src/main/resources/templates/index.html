@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Insert title here</title>
+<!--    <script src="https://code.jquery.com/jquery-1.8.3.min.js"></script>-->
+    <script src="js/jquery-1.8.3.min.js">
+    <script>
+	$(function(){
+			$.ajax({
+  	  			url:"http://localhost:8080/product/service",//要请求的服务器url
+  	  			type:"GET",//请求方式
+  	  			dataType:"json",//服务器返回什么类型数据 text xml javascript json(javascript对象)
+  	  			success:function(result){//函数会在服务器执行成功后执行，result就是服务器返回结果
+  	  				console.log(result);
+  	  				$("#re").html(result);
+  	  			},
+  	  			error:function(jqXHR, textStatus, errorThrown) {
+
+  	  	    	}
+			});
+			$.ajax({
+  	  			url:"https://localhost:8888/product/service",//要请求的服务器url
+  	  			type:"GET",//请求方式
+  	  			dataType:"json",//服务器返回什么类型数据 text xml javascript json(javascript对象)
+  	  			success:function(result){//函数会在服务器执行成功后执行，result就是服务器返回结果
+  	  				console.log(result);
+  	  				$("#re").html(result);
+  	  			},
+  	  			error:function(jqXHR, textStatus, errorThrown) {
+
+  	  	    	}
+			});
+			$.ajax({
+  	  			url:"https://localhost:8888/product/service1",//要请求的服务器url
+  	  			type:"GET",//请求方式
+  	  			dataType:"json",//服务器返回什么类型数据 text xml javascript json(javascript对象)
+  	  			success:function(result){//函数会在服务器执行成功后执行，result就是服务器返回结果
+  	  				console.log(result);
+  	  				$("#re").html(result);
+  	  			},
+  	  			error:function(jqXHR, textStatus, errorThrown) {
+
+  	  	    	}
+			});
+	});
+</script>
+</head>
+<body>
+<h1>我是html页面</h1>
+<img src="js/A.jpg">
+<img src="js/B.jpg">
+<img src="js/C.jpg">
+<img src="js/D.jpg">
+<img src="js/EE.jpg">
+<img src="js/FF.jpg">
+<img src="js/GG.jpg">
+<img src="js/HH.jpg">
+<img src="js/II.jpg">
+<img src="js/JJ.jpg">
+<img src="js/KK.jpg">
+<img src="js/LL.jpg">
+<img src="js/MM.jpg">
+<button id="s">发起ajax</button>
+<span id="re"></span>
+</body>
+</html>

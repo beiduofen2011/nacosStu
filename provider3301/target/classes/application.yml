@@ -1,0 +1,37 @@
+server:
+  port: 8888 # 端口
+  compression:
+    enabled: true
+  http2:
+    enabled: true # 启用http2
+  ssl:
+    enabled: true
+    key-store: classpath:keystore.p12 # 启用http2
+    key-store-password: 123456 # 证书密码
+    key-store-type: PKCS12 # 证书类型
+    protocol: TLSv1.2 # 协议类型
+    key-alias: undertow
+spring:
+  application:
+    name: product
+  cloud:
+    nacos:
+      discovery:
+        metadata:
+          version: 1
+        server-addr: 8.142.145.40:8848
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/mybatisstu?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+    username: root
+    password: 123456
+mybatis: #mybatis配置
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.fen.dou.entity
+  config-location: classpath:config/mybatis.xml
+
+logging:
+  level:
+    com.fen.dou.mapper : debug
+
+

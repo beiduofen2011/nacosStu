@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9cd0f13c-0954-4ffa-bc6d-79fd703cd899" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="278QDEYVlUWYNyCBVJyIsYoIHh9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/provider3301/src/main/java/com/fen/dou/service" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\code\nacosServiceProvider\provider3301\src\main\resources\static\js" />
+      <recent name="F:\code\nacosServiceProvider\provider3301\src\main\resources\templates" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fen.dou.entity" />
+      <recent name="com.fen.dou.mapper" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\code\nacosServiceProvider\provider3301\src\main\java\com\fen\dou\service" />
+      <recent name="F:\code\nacosServiceProvider\provider3301\src\main\resources\mapper" />
+      <recent name="F:\code\nacosServiceProvider\provider3301\src\main\resources\static\js" />
+      <recent name="F:\code\nacosServiceProvider\provider3301\src\main\resources\static.images" />
+      <recent name="F:\code\nacosServiceProvider\provider3301\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestJunit.testSay">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fen.dou.Application" />
+      <module name="provider3301" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fen.dou.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CyclibariStu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CyclibariStu" />
+      <module name="provider3301" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SemaphereStu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SemaphereStu" />
+      <module name="provider3301" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestJunit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="provider3301" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestJunit" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestJunit.testSay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="provider3301" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestJunit" />
+      <option name="METHOD_NAME" value="testSay" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application (2)" />
+        <item itemvalue="JUnit.TestJunit.testSay" />
+        <item itemvalue="JUnit.TestJunit" />
+        <item itemvalue="Application.SemaphereStu" />
+        <item itemvalue="Application.CyclibariStu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cd0f13c-0954-4ffa-bc6d-79fd703cd899" name="Default Changelist" comment="" />
+      <created>1648699112472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648699112472</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1649003481065">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1649003481065" />
+    <state x="496" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1649164909547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1649164909547" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1649142148803">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1649142148803" />
+    <state x="548" y="271" width="439" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1649128662951">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="271" width="439" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1649128662951" />
+    <state x="524" y="114" width="687" height="595" key="#xdebugger.evaluate" timestamp="1649045101388">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="114" width="687" height="595" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1649045101388" />
+    <state width="535" height="438" key="DebuggerActiveHint" timestamp="1649043663972">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="535" height="438" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1649043663972" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1648912649475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1648912649475" />
+    <state width="1493" height="395" key="GridCell.Tab.0.bottom" timestamp="1649169574106">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="395" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1649169574106" />
+    <state width="1493" height="395" key="GridCell.Tab.0.center" timestamp="1649169574106">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="395" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1649169574106" />
+    <state width="1493" height="395" key="GridCell.Tab.0.left" timestamp="1649169574106">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="395" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1649169574106" />
+    <state width="1493" height="395" key="GridCell.Tab.0.right" timestamp="1649169574106">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="395" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1649169574106" />
+    <state width="1493" height="183" key="GridCell.Tab.1.bottom" timestamp="1649132297212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1649132297212" />
+    <state width="1493" height="183" key="GridCell.Tab.1.center" timestamp="1649132297212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1649132297212" />
+    <state width="1493" height="183" key="GridCell.Tab.1.left" timestamp="1649132297212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1649132297212" />
+    <state width="1493" height="183" key="GridCell.Tab.1.right" timestamp="1649132297212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1649132297212" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1649047417979">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1649047417979" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1648703125829">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1648703125829" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1649045100913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1649045100913" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1648971354470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1648971354470" />
+    <state x="268" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1649132291790">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="268" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1649132291790" />
+    <state x="377" y="112" width="1002" height="600" key="find.popup" timestamp="1649231201238">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="377" y="112" width="1002" height="600" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1649231201238" />
+    <state x="178" y="0" key="new project wizard" timestamp="1648701708348">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1648701708348" />
+    <state x="154" y="189" key="run.anything.popup" timestamp="1649167067966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="154" y="189" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1649167067966" />
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup" timestamp="1648717248642">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="66" width="672" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1648717248642" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="beanName.equals(&quot;aservice&quot;) || beanName.equals(&quot;bservice&quot;)" language="JAVA" />
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.8.RELEASE/spring-beans-5.1.8.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
+          <line>604</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="beanName.equals(&quot;aservice&quot;) || beanName.equals(&quot;bservice&quot;)" language="JAVA" />
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.8.RELEASE/spring-beans-5.1.8.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
+          <line>578</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="beanName.equals(&quot;aservice&quot;) || beanName.equals(&quot;bservice&quot;)" language="JAVA" />
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.8.RELEASE/spring-beans-5.1.8.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
+          <line>592</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="beanName.equals(&quot;aservice&quot;) || beanName.equals(&quot;bservice&quot;)" language="JAVA" />
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.8.RELEASE/spring-beans-5.1.8.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
+          <line>1781</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
